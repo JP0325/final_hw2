@@ -32,3 +32,11 @@ def SGD_clf(X,Y,Itertime = 100000,step_size = 0.01,threshold = 0.01):
 #    h_output = X_test.dot(w)+theta
 #    h_label = [1 if  x>= 0 else -1 for x in h_output]
 #    return accuracy_score(h_label,Y_test)
+
+
+###################
+###################
+#######    ########
+#######    ########
+###################
+###################
